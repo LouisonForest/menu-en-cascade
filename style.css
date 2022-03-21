@@ -38,7 +38,7 @@ a {
 
 .items:hover > .sous-menu {
   position: relative;
-  top: -18.5px;
+  top: -18px;
   left: 100px;
   z-index: 1;
   display: block;
